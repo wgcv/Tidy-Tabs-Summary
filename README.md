@@ -1,4 +1,4 @@
-# Tidy-Tabs-Summary
+# Tidy Tabs Summary in 4 Words
 Condense your Browser Tabs into a few impactful words. - Inspired in Arc Max
 
 Here are some examples you can try that aren't included in the training or test datasets
