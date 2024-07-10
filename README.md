@@ -2,6 +2,9 @@
 Condense your Browser Tabs into a few impactful words. - Inspired in Arc Max
 
 Here are some examples you can try that aren't included in the training or test datasets
+# Test the 3 models Online
+[Hugging Face Space](https://huggingface.co/spaces/wgcv/Tidy-Tabs-Titles) 
+
 # Examples
 ```
 Urls:
